@@ -1,4 +1,5 @@
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL =
+  "https://nawal-khan-official.onrender.com";
 
 export async function getYouTubeVideos() {
   const response = await fetch(
@@ -31,7 +32,6 @@ export async function getYouTubePlaylists() {
 
   return data.playlists;
 }
-
 
 export async function getYouTubePosts() {
   const response = await fetch(
