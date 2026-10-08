@@ -92,7 +92,7 @@ function Hero() {
 
         {/* Subtitle */}
         <p className="mt-7 max-w-xl text-sm leading-7 text-white/70 sm:text-base sm:leading-8">
-          Official artist website
+          Official website of Nawal Khan — Naat, Hamd, Manqabat & Kalam
         </p>
 
         <p className="mt-2 text-[10px] uppercase tracking-[0.35em] text-white/45 sm:text-xs">
